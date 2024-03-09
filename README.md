@@ -8,18 +8,4 @@
 
 🗽 __.__ __Upper-Intermediate__ English
 
-import requests
-
-url = "https://api.github.com/repos/:owner/:repo"
-headers = {"Authorization": "Bearer SEU_TOKEN_DE_ACESSO"}
-
-response = requests.get(url, headers=headers)
-
-if response.status_code == 200:
-    repo_data = response.json()
-    # Faça algo com os dados do repositório
-else:
-    print(f"Erro na solicitação: {response.status_code}")
-
-
 ![gif](https://media.tenor.com/2HuG5tLOLqMAAAAi/rotating-cheese.gif)
