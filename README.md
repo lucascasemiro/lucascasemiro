@@ -1,3 +1,3 @@
-👋Opa, meu nome é Lucas Casemiro e estou iniciando do GitHub👋
-Cursando Ensino Médio e Curso Técnico no SENAI
+<p style= font-size 30px >Hi, Im Lucas Casemiro</p>
+<p style= font-size 70px >Welcome to my GitHub</p>
 ![gif](https://media.tenor.com/2HuG5tLOLqMAAAAi/rotating-cheese.gif)
