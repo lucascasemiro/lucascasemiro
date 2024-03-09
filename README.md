@@ -9,11 +9,11 @@
 🗽 __.__ __Upper-Intermediate__ English
 
 
-<div align="left">
+<div align="cennter">
     <a href="https://github.com/lucascasemiro">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=lucascasemiro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
-<div align="left">
+<div align="center">
   <a href = "mailto:lucasfrarre@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
